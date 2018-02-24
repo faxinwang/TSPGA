@@ -84,7 +84,7 @@ public:
 		this->mp_map = new TSPMap();
 		this->mp_scene = mainScene;
 		mp_map->setCitys(cities);
-		mi_timeOfCity = 20;
+		mi_timeOfCity = 50;
 		mi_populationSize = mp_map->numberOfCities() * mi_timeOfCity;
 		mi_generation = 0;
 		mi_cntBestTime = 0;

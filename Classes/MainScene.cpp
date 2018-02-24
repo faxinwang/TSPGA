@@ -116,7 +116,7 @@ void MainScene::OnKeyPressed(EventKeyboard::KeyCode code, Event* event) {
 				tspga->createStartingPopulation();
 				tspga->mb_started = true;
 				tspga->mb_running = true;
-				showInfo("-press SPACE to pause\n-press ESC to cancel\n-press C to clear path");
+				showInfo("-press SPACE to pause/continue\n-press ESC to cancel\n-press C to clear path");
 			}
 		}
 		else {
@@ -140,9 +140,9 @@ void MainScene::OnKeyPressed(EventKeyboard::KeyCode code, Event* event) {
 		tspga->mb_running = !tspga->mb_running;
 		if (tspga->mb_running) tspga->mi_cntBestTime = 0;
 		if (tspga->mb_running) 
-			showInfo("-press SPACE to pause\n-press ESC to clear all\n-press C to clear pathes");
-		else 
-			showInfo("-press SPACE to continue\n-press ESC to clear all\n-press C to clear pathes");
+			showInfo("-press SPACE to pause/continue\n-press ESC to clear all\n-press C to clear pathes");
+	//	else 
+	//		showInfo("-press SPACE to continue\n-press ESC to clear all\n-press C to clear pathes");
 	}
 	else if (code == EventKeyboard::KeyCode::KEY_C
 		|| code == EventKeyboard::KeyCode::KEY_CAPITAL_C) {

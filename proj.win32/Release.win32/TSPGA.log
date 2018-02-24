@@ -1,0 +1,66 @@
+﻿  AppDelegate.cpp
+  MainScene.cpp
+  main.cpp
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(37): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(38): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(39): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(37): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\MainScene.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(38): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\MainScene.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\MainScene.h(39): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决 (编译源文件 ..\Classes\MainScene.cpp)
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(67): note: 参见“cocos2d::LabelTTF”的声明 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\TSPGA.h(122): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\TSPGA.h(139): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\TSPGA.h(424): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\TSPGA.h(434): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 ..\Classes\MainScene.cpp)
+d:\cocos2d\cocospro\tspga\classes\TSPGA.h(441): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 ..\Classes\MainScene.cpp)
+..\Classes\MainScene.cpp(35): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(124): note: 参见“cocos2d::LabelTTF::create”的声明
+..\Classes\MainScene.cpp(36): warning C4996: 'cocos2d::LabelTTF::setFontSize': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(142): note: 参见“cocos2d::LabelTTF::setFontSize”的声明
+..\Classes\MainScene.cpp(37): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(39): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(43): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(124): note: 参见“cocos2d::LabelTTF::create”的声明
+..\Classes\MainScene.cpp(44): warning C4996: 'cocos2d::LabelTTF::setFontSize': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(142): note: 参见“cocos2d::LabelTTF::setFontSize”的声明
+..\Classes\MainScene.cpp(45): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(51): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(124): note: 参见“cocos2d::LabelTTF::create”的声明
+..\Classes\MainScene.cpp(52): warning C4996: 'cocos2d::LabelTTF::setFontSize': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(142): note: 参见“cocos2d::LabelTTF::setFontSize”的声明
+..\Classes\MainScene.cpp(53): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(168): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(172): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(180): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(182): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(184): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+..\Classes\MainScene.cpp(186): warning C4996: 'cocos2d::LabelTTF::setString': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabelTTF.h(129): note: 参见“cocos2d::LabelTTF::setString”的声明
+    正在创建库 D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\TSPGA.lib 和对象 D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\TSPGA.exp
+  正在生成代码
+d:\cocos2d\cocospro\tspga\classes\tspga.h(321): warning C4715: “TSPGA::selectRoulette”: 不是所有的控件路径都返回值
+  All 878 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TSPGA.vcxproj -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\TSPGA.exe
+  D:\cocos2d\cocosPro\TSPGA\Resources\fonts\arial.ttf -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\fonts\arial.ttf
+  D:\cocos2d\cocosPro\TSPGA\Resources\fonts\Marker Felt.ttf -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\fonts\Marker Felt.ttf
+  D:\cocos2d\cocosPro\TSPGA\Resources\imgs\city.png -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\imgs\city.png
+  D:\cocos2d\cocosPro\TSPGA\Resources\imgs\CloseNormal.png -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\imgs\CloseNormal.png
+  D:\cocos2d\cocosPro\TSPGA\Resources\imgs\CloseSelected.png -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\imgs\CloseSelected.png
+  D:\cocos2d\cocosPro\TSPGA\Resources\imgs\HelloWorld.png -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\imgs\HelloWorld.png
+  D:\cocos2d\cocosPro\TSPGA\Resources\res\.gitkeep -> D:\cocos2d\cocosPro\TSPGA\proj.win32\Release.win32\res\.gitkeep
+  复制了 7 个文件
